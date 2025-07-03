@@ -4,8 +4,6 @@ I created a basic red zone script that creates Blips and a red sphere zone aroun
 
 I put this together in around 30-40 minutes. If anyone is interested, I'm willing to keep working on it to make it better. Feel free to submit PR requests if you have ideas for improvement or open an issue in case you come across a bug that needs fixing.
 
-https://fivem.samueldev.shop / https://discord.gg/samueldev / https://docs.samueldev.shop
-
 # Dependencies
 - ox_lib
 
