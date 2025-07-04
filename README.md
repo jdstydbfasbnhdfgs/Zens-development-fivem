@@ -6,3 +6,5 @@ I put this together in around 30-40 minutes. If anyone is interested, I'm willin
 Dependencies
 ox_lib
 qb-ambulancejob events are currently being used to revive the player, you can edit them/replace them with your ambulance scripts equivalent in the sd-redzones:client:handleDeath event in the client.
+
+preview: https://www.youtube.com/watch?v=zhugUX4tXJc
